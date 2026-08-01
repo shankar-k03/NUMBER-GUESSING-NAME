@@ -1,0 +1,6 @@
+{
+  "name": "Number Guessing Game",
+  "description": "An interactive number guessing game web application converted from Python to a full frontend experience with real-time feedback, range guides, attempt history, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
